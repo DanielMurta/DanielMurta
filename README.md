@@ -1,7 +1,7 @@
 ### Olá, eu sou o Daniel Murta! 
 Bem vindo ao meu perfil no GitHub 👋
 
--  Atualmente cursando Física na Universida Federal Fluminese (UFF) em Niterói/RJ e aprendendo a programar em Python!
+-  Atualmente cursando Física na Universidade Federal Fluminense (UFF) em Niterói/RJ e aprendendo a programar em Python!
 
 <div>
 <a href="https://github.com/DanielMurta">
