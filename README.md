@@ -6,7 +6,7 @@ Atualmente cursando Física na Universidade Federal Fluminense (UFF) em Niterói
 <a href="https://github.com/DanielMurta">
 <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMurta&layout=compact&langs_count=7&theme=transparent"/>
 <img height="100em" src="https://github-readme-stats.vercel.app/api?username=DanielMurta&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img heigth="150em" width="160" src="https://user-images.githubusercontent.com/115833369/205317049-551e1b04-1e75-4ed4-adec-ee25c7cb4352.png"/>
+<img heigth="150em" width="200" src="https://user-images.githubusercontent.com/115833369/205317049-551e1b04-1e75-4ed4-adec-ee25c7cb4352.png"/>
 </div>
  
 
