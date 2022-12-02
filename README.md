@@ -6,8 +6,8 @@ Bem vindo ao meu perfil no GitHub 👋
 
 <div>
 <a href="https://github.com/DanielMurta">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMurta&layout=compact&langs_count=7&theme=dracula"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=DanielMurta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMurta&layout=compact&langs_count=7&theme=dracula"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=DanielMurta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ```JavaScript
@@ -33,6 +33,7 @@ Principais Ferramentas e Tecnologias:
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <div>
  
 
