@@ -1,11 +1,11 @@
 ```JavaScript
-Olá! Eu sou o Daniel e seja bem vindo ao meu perfil do GitHub!
+Olá! Meu nome é Daniel e seja bem vindo ao meu perfil do GitHub!
 Atualmente cursando Física na Universidade Federal Fluminense (UFF) em Niterói/RJ e aprendendo a programar em Python!
 ```
 <div>
 <a href="https://github.com/DanielMurta">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMurta&layout=compact&langs_count=7&theme=dracula"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=DanielMurta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMurta&layout=compact&langs_count=7&theme=transparent"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=DanielMurta&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
  
 
