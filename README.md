@@ -26,9 +26,9 @@ function Contatos() {
 }
 ```
 
-```JavaScript
+
 Principais Ferramentas e Tecnologias:
-```
+ 
 <div>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
