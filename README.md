@@ -1,16 +1,7 @@
 ```JavaScript
-Olá! Meu nome é Daniel e seja bem vindo ao meu perfil do GitHub!
+Olá! Seja bem vindo ao meu perfil do GitHub!
 Atualmente cursando Física na Universidade Federal Fluminense (UFF) em Niterói/RJ e aprendendo a programar em Python!
-```
-<div>
-<a href="https://github.com/DanielMurta">
-<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMurta&layout=compact&langs_count=7&theme=transparent"/>
-<img height="110em" src="https://github-readme-stats.vercel.app/api?username=DanielMurta&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img heigth="150em" width="220" src="https://user-images.githubusercontent.com/115833369/205317049-551e1b04-1e75-4ed4-adec-ee25c7cb4352.png"/>
-</div>
- 
 
-```JavaScript
 const SobreMim = {
   Nome: 'Daniel Silveira',
   Idade: '22',
@@ -26,7 +17,14 @@ function Contatos() {
 }
 ```
 
-
+<div align="center">
+<a href="https://github.com/DanielMurta">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMurta&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanielMurta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielMurta&theme=tokyonight"/>
+</div>
+ 
+ 
 Principais Ferramentas e Tecnologias:
  
 <div>
