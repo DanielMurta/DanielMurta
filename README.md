@@ -25,7 +25,7 @@ function Contatos() {
 </div>
  
  
-Principais Ferramentas e Tecnologias:
+##  Conhecimentos e Tecnologias:
  
 <div>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
