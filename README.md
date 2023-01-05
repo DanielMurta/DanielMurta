@@ -1,5 +1,5 @@
 <p align="Center">
-  <img src="src/__DATALOG__.gif">
+  <img width="400" src="__DATALOG__.gif">
 </p>
 
 ```JavaScript
