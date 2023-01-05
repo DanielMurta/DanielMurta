@@ -1,7 +1,3 @@
-<p align="Center">
-  <img width="400" src="__DATALOG__.gif">
-</p>
-
 ```JavaScript
 Olá! Seja bem vindo ao meu perfil do GitHub!
 Atualmente cursando Física na Universidade Federal Fluminense (UFF) em Niterói/RJ e aprendendo a programar em Python!
