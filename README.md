@@ -1,10 +1,10 @@
 ```JavaScript
 Olá! Seja bem vindo ao meu perfil do GitHub!
-Atualmente cursando Física na Universidade Federal Fluminense (UFF) em Niterói/RJ e aprendendo a programar em Python!
+Atualmente cursando Análise e Desenvolvimento de Sistemas e estudando para me tornar um Desenvolvedor Backend!
 
 const SobreMim = {
   Nome: 'Daniel Silveira',
-  Idade: '22',
+  Idade: '23',
   rank: 'Desenvolvedor Web Back-end',
   País: 'Brasil',
 };
@@ -30,12 +30,13 @@ function Contatos() {
 <div>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />        
 <div>
  
 
