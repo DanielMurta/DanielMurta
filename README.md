@@ -1,11 +1,11 @@
 ```JavaScript
 Olá! Seja bem vindo ao meu perfil do GitHub!
-Atualmente cursando Análise e Desenvolvimento de Sistemas e estudando para me tornar um Desenvolvedor Backend!
+Atualmente cursando Análise e Desenvolvimento de Sistemas e trabalhando como Desenvolvedor Web!
 
 const SobreMim = {
   Nome: 'Daniel Silveira',
   Idade: '23',
-  rank: 'Desenvolvedor Web Back-end',
+  rank: 'Desenvolvedor Web',
   País: 'Brasil',
 };
 
